@@ -1,0 +1,19 @@
+// How treat all newer version of the js code
+"use strict";
+
+// There are some data types 
+
+let name = "ansuman"; // string
+let isLoggedIn = true; // Boolean
+let state; // Undefined
+let myCrush = null; //NULL
+
+/*
+some points to remeber
+its like auto in cpp
+it automatically reads the data type:->
+ */
+
+console.log(typeof null); // Remember its an object
+console.log(typeof undefined)// undefined type is undefined
+ 
